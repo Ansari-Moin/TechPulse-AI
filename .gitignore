@@ -1,0 +1,15 @@
+# Virtual environment
+.venv/
+
+# IDE files
+.idea/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Environment variables
+.env
+
+# Windows system files
+desktop.ini
