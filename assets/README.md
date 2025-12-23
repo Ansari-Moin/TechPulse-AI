@@ -1,8 +1,8 @@
-![TechPulse AI Banner](assets/banner.png)
+![TechPulse AI Banner](banner.png)
 
 ## 🎥 Demo
 
-![TechPulse AI Demo](assets/demo.gif)
+![TechPulse AI Demo](demo.gif)
 
 ![Python](https://img.shields.io/badge/Python-3.10+-blue)
 ![Platform](https://img.shields.io/badge/Platform-Windows%2010%2F11-blue)
