@@ -29,3 +29,8 @@
 
 ## 📁 Project Structure
 
+TechPulse AI/
+│
+├── main.py # Main application script
+├── README.md # Project documentation
+└── Generated PDFs # Saved in Documents/TechPulse AI
